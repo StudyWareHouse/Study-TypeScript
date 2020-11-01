@@ -67,7 +67,7 @@
     "forceConsistentCasingInFileNames": true  /* Disallow inconsistently-cased references to the same file. */
   },
   "include": [
-    "chapter2/src/**/*",
+    "src/**/*",
     "src2/**/*"
   ],
   "exclude": [
